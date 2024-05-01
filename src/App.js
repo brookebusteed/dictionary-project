@@ -14,7 +14,7 @@ function App() {
         </main>
         <footer className="App-footer">
           {" "}
-          <small> Coded by Brooke Busteed</small>
+          <small> Coded by Brooke Busteed l</small>
         </footer>
       </div>
     </div>
