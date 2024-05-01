@@ -6,6 +6,11 @@ a {
   color: #af42ee;
 }
 
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 .App-logo {
   max-width: 200px;
   display: block;
