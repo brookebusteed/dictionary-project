@@ -31,7 +31,7 @@ function App() {
             >
               open-sourced{" "}
             </a>{" "}
-            on GitHub and, hosted on{" "}
+            on GitHub and hosted on{" "}
             <a
               href="https://dictionary-app-bb.netlify.app"
               target="_blank"
