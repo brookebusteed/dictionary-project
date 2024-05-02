@@ -14,7 +14,34 @@ function App() {
         </main>
         <footer className="App-footer">
           {" "}
-          <small> Coded by Brooke Busteed</small>
+          <small>
+            {" "}
+            Coded by{" "}
+            <a
+              href="https://github.com/brookebusteed"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Brooke Busteed{" "}
+            </a>{" "}
+            and is{" "}
+            <a
+              href="https://github.com/brookebusteed/dictionary-project"
+              target="_blank"
+              rel="noreferrer"
+            >
+              open-sourced{" "}
+            </a>{" "}
+            on GitHub and, hosted on{" "}
+            <a
+              href="https://dictionary-app-bb.netlify.app"
+              target="_blank"
+              rel="noreferrer"
+            >
+              {" "}
+              Netlify{" "}
+            </a>
+          </small>
         </footer>
       </div>
     </div>
